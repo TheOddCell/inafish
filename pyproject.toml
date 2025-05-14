@@ -2,7 +2,7 @@
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
-[tool.setuptools]
+[project]
 name = "inafish"
 version = "1.0.0"
 description = "A simple library for inafishent (but smol) compression. >[_]"
