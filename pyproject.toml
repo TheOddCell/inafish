@@ -11,9 +11,9 @@ classifiers = [
     "License :: Public Domain",
     "Operating System :: OS Independent",
 ]
+authors = [
+    { name = "The Odd Cell", email = "me@oddcell.ca" }
+]
+urls = { "Homepage" = "https://github.com/theoddcell/inafish" }
 
 [tool.setuptools]
-include-package-data = true
-author = "The Odd Cell"
-author_email = "me@oddcell.ca"
-url = "https://github.com/theoddcell/inafish"
