@@ -6,8 +6,6 @@ build-backend = "setuptools.build_meta"
 name = "inafish"
 version = "1.0.0"
 description = "A simple library for inafishent (but smol) compression. >[_]"
-long_description = "A simple library for inafishent (but smol) compression. >[_]"
-long_description_content_type = "text/markdown"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: Public Domain",
