@@ -13,6 +13,7 @@ classifiers = [
 ]
 
 [tool.setuptools]
+include-package-data = true
 author = "The Odd Cell"
 author_email = "me@oddcell.ca"
 url = "https://github.com/theoddcell/inafish"
